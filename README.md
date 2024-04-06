@@ -1,5 +1,3 @@
-# google-sheets-automation
-
 # Google Sheets Automation
 This project aims to provide automation capabilities for Google Sheets using Java. With this utility, you can easily create, write, and manipulate data in Google Sheets programmatically.
 
