@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "myselenium-test",
+  "private_key_id": "4dd765ce4b4360c1fe57199c0dc4d12df794fd62",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDaTzcm+qXT+MSw\nKyDs06XjGdKVEDQM9VomcAlp7S+BmUmZ7bN9nVf6+K1peDPwNux0LSpHAAsgE0be\nGEAG2skqHe4C0C5ijMsrrv0kY6X0wW9kLEZl1sxkFKe6YbfKkzf9fr92+Ebag3ff\ndOoe6tr9iteGofD7nIC1XaThA8V4B6iG8PCceJq13xz/PkkVuD/3IB8S1p3cykHv\nLQ/eNZ8LpDBS7CihXJ8rhsVGwjIEzA0qoT114lucPC0Tvjx/m/Ko8Eq5jZi54K0f\nSEtdl9uZevLhukdZBctgfynXWMmlGm5T+aoYA834h9S6+Ifwx3vu+NOxv40WhUH8\ndc7u2DNXAgMBAAECggEAMZHlIwus1bnZ52qTmlLgivWVFFXOi9a2Np4f9RZvQA0v\nYi1QIUi17n3C2nz5xiSigiqzO9XtsMXPxKRa/XN2VALhxW/B6IyxoWSlhDrANxgp\nE+Tdw0gHtv3dq/t+QRg2kW/TR89OP1W0xV+Fval0Ojfpgl+JGYjKzOPLiXBSyVMA\nLDzljBpFrnpxPg+xph41Ea6Ep2M+RN3gF8OARQQWpHEExpvpDYwESpqrGZhhj+A0\n7bxukYb+2J5sGdYAhoNpAi7dCriXfOLEcFMiNNVx2urvKtW22jEnz77k6096zNdU\naEqrjsgRXhJc5nHFMZ5Lgl1+vnyw4LuLIFa04PpN8QKBgQD/KaAsKcSzg/CF8Lgc\nnuMyvW1PMQKVp2XC2q+8UkCxf3jWSRWjSnctVldGtayuEt7w/jBnEKZ3f2XycVuP\nHDN1ijKgVLbnC6rlvE9N+n+Fk4RupeFeyujyZCArzEf+zWP9bnh1VwofztSnxoC+\nzZufoRp22LYH3TEpHDY7K3Ij3wKBgQDbBqCt/3qsBUDX1coLimUJ7J5IbRtPg4Jy\noZRcXO80hMK37CIvpIhpr1tDqJwTYWOtcBybC5iKcHTqaV9Z0uK5rqFUAcE891YU\nrcMVTM5IJr0S4t/qXPIqojblyIRYDscW4QNrVOT3FamyeMzYIcCUXdDbOO/u3HVs\nDiHLePUfiQKBgQDQn+gmM8BwRmBSIw9l10NMKTVGmnvSgJvjRYqKH3ZlqiPSkM7w\nQ+JNX1rcpY4ahbNit3I70pFJAxEHuUdzK0unvubF0H37Sr7gN6dfyoCZZpPRJC+w\noZb1GIh1RwFWg/hNLhWvWwscFrAovVRmrRWg3sgUg/vRUjjvs/FjT5JzYQKBgQCc\noxfEeCIt5a/i66UMLdRmjY8BMu5GJkHjYwTsLRZxE8UBreEg+2UHV/5H28yK26pi\nffwnMdrMnvIuNl+XqIa2zlnX701YIXaxYTdUA1K/LN0pJZGHVSNnNA1YtddX9nGR\nPiio2NTKk/aBiXzN0Q2dzZ4xOX318DoVpeGrV3zOKQKBgQDuQ41RNnrNyDsZfXFc\nuQvqK0bk4R3ojheCXBB7gXgr1x18cSSmcW6BSZ+XgivUdPK3tbkbID8qDVTWxtNd\nzbVgl7Y9KFxpcEHRQRmuH3Ylk2f3H+ruK+rKzJkzF1/qN/oQl7AQUI/Nfq+Qvt7J\nH/pnISgAvsH8c8QPNtMA3Uew3A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-account-for-selenium@myselenium-test.iam.gserviceaccount.com",
+  "client_id": "103517164404675458466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-account-for-selenium%40myselenium-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
